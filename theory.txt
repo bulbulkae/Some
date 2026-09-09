@@ -1,0 +1,12 @@
+I learned about
+    me
+    instructor
+    vs code
+    html
+    css
+    javascript
+
+    html is not programming language
+    tag
+    void tags
+    nesting tags 
